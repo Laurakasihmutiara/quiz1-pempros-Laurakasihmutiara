@@ -1,0 +1,14 @@
+PROMPT 1
+bantu saya memahami yang yang harus dikerjakan dari soal ini lalu setelah itu bantu saya untuk membuat
+codenya agar saya dapat menjalankan codenya divisual studio code dengan bahasa c dan apabila kurang jelas 
+soalnya read me soalnya
+PROMPT 2
+dalam soal ini apakah kita bisa bebas menentukan kode kelompoknya dan bagaimana kalau saya mau kelompok 
+dibedakan dengan remedial dan lulus
+PROMPT 3
+BERIKAN SAYA CONTOH APA SAJA PENGELOMPOKKAN YANG DAPAT DIBUAT DARI GAMBAR YANG SAYA KIRIM?
+PROMPT 4
+saya mau dibuatkan code  yang berdasarkan nama bantu saya membuat codenya agar saya bisa langsung copy 
+ke visual studio code
+PROMPT 5
+menurut anda berdasarkan apa pengelompokan yang bagus dari gambar yang saya kirim tadi? satu aja jawabannya
